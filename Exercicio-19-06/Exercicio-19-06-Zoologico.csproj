@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Zoologico.Domain\Zoologico.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
